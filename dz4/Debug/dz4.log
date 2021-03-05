@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\nisiy\source\repos\dz4\dz4\Source.cpp(156,3): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\nisiy\source\repos\dz4\dz4\Source.cpp(159,3): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  dz4.vcxproj -> C:\Users\nisiy\source\repos\dz4\Debug\dz4.exe
